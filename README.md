@@ -2,7 +2,7 @@
 
 Here I am adding some basic problem of python code
 
-To save work and save git files in local directory, make a directory first(if want to create a new one)
+To save work and save it into git files in local directory, make a directory first(if want to create a new one)
 1. `pwd`
 2. `mkdir Directory_Name`  // any directory name
 3. type `ls` to check it is created or not
