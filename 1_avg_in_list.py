@@ -1,3 +1,6 @@
+# time complexity: O(n), where n = total items in the list;
+# Space complexity: O(1); constant since we don't take any extra space
+
 # input would be a string 
 user_num = input("Enter numbers: ")
 print("\n")
