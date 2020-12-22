@@ -10,7 +10,7 @@ To save work and save git files in local directory, make a directory first(if wa
 
 ## Git workflow for beginners
 
-1. to access git into local created directory, type command in local pc's terminal and copy the url from the git website: `git clone url`
+1. To access git into local created directory, type command in local pc's terminal and copy the url from the git website: `git clone url`
 1. type `git status` after cloning
 
 1. To add file in git --> `git add filename.extension`
