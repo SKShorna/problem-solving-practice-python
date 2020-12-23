@@ -1,4 +1,4 @@
-# Time complexity; O(n)
+# Time complexity;  O(2n)
 # Space Complexity: O(1)
 num_list = [2, 1, 4, 9, 6]
 print(num_list)
